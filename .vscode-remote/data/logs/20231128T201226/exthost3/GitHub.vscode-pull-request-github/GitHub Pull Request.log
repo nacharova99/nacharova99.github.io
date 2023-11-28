@@ -31,3 +31,10 @@
 2023-11-28 20:36:21.296 [info] Review> No matching pull request metadata found locally for current branch main
 2023-11-28 20:36:22.633 [info] Review> Failed to get upstream for branch main from git config.
 2023-11-28 20:36:22.633 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-28 20:37:27.012 [info] Review> Validate state in progress
+2023-11-28 20:37:27.012 [info] Review> Validating state...
+2023-11-28 20:37:31.993 [info] Found GitHub remote for folder /home/ubuntu
+2023-11-28 20:37:31.995 [info] Using in-memory cached assignable users.
+2023-11-28 20:37:32.960 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-28 20:37:34.651 [info] Review> Failed to get upstream for branch main from git config.
+2023-11-28 20:37:34.652 [info] Review> No matching pull request metadata found on GitHub for current branch main
