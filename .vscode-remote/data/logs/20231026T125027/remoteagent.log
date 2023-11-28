@@ -1,0 +1,42 @@
+2023-10-26 12:50:27.041 [trace] Remote configuration data at /home/ubuntu/.vscode-remote
+2023-10-26 12:50:27.041 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/ubuntu/.vscode-remote/data/Machine/.connection-token-f1b07bd25dfad64b0167beb15359ae573aecd2cc","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/ubuntu/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"use-test-resolver":false,"extensions-download-dir":"/home/ubuntu/.vscode-remote/extensionsCache","list-extensions":false,"show-versions":false,"force":false,"do-not-sync":false,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/ubuntu/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions","extensions-dir":"/home/ubuntu/.vscode-remote/extensions","logsPath":"/home/ubuntu/.vscode-remote/data/logs/20231026T125027"}
+2023-10-26 12:50:27.041 [info] 
+
+
+
+
+2023-10-26 12:50:27.041 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/data/Machine (excludes: <none>, includes: <all>),/home/ubuntu/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>)
+2023-10-26 12:50:27.060 [trace] ExtensionManagementService#cleanUp
+2023-10-26 12:50:27.061 [trace] ExtensionManagementService#removeTempDeleteFolders
+2023-10-26 12:50:27.063 [info] Extension host agent started.
+2023-10-26 12:50:27.098 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/extensions (excludes: <none>, includes: <all>)
+2023-10-26 12:50:27.099 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/data/Machine'
+2023-10-26 12:50:27.102 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/data/Machine/settings.json'
+2023-10-26 12:50:27.104 [debug] No uninstalled extensions found.
+2023-10-26 12:50:27.105 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>)
+2023-10-26 12:50:27.112 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/extensions'
+2023-10-26 12:50:27.114 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions","external":"file:///home/ubuntu/.vscode-remote/extensions","path":"/home/ubuntu/.vscode-remote/extensions","scheme":"file"}
+2023-10-26 12:50:27.116 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/extensions/extensions.json'
+2023-10-26 12:50:27.185 [trace] Scanned user extensions: 34
+2023-10-26 12:50:29.091 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-26 12:50:29.578 [info] [127.0.0.1][cec5f32c][ManagementConnection] New connection established.
+2023-10-26 12:50:29.580 [trace] [127.0.0.1][43d0ba9f][ExtensionHostConnection] - startParams language: ru
+2023-10-26 12:50:29.580 [trace] [127.0.0.1][43d0ba9f][ExtensionHostConnection] - startParams env: {}
+2023-10-26 12:50:29.580 [info] [127.0.0.1][43d0ba9f][ExtensionHostConnection] New connection established.
+2023-10-26 12:50:29.583 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-26 12:50:29.589 [info] [127.0.0.1][43d0ba9f][ExtensionHostConnection] <2968> Launched Extension Host Process.
+2023-10-26 12:50:30.359 [trace] Started scanning system extensions
+2023-10-26 12:50:30.359 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-remote/extensions/extensions.json","path":"/home/ubuntu/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-26 12:50:30.360 [trace] ExtensionManagementService.refreshReportedCache
+2023-10-26 12:50:30.360 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-26 12:50:30.360 [trace] Started scanning system extensions
+2023-10-26 12:50:30.361 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-remote/extensions/extensions.json","path":"/home/ubuntu/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-26 12:50:30.361 [trace] Started scanning system extensions
+2023-10-26 12:50:30.361 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-remote/extensions/extensions.json","path":"/home/ubuntu/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-26 12:50:30.363 [trace] Scanning extensions using UI language: ru
+2023-10-26 12:50:30.364 [info] Log level changed to info
+2023-10-26 12:52:21.866 [info] [127.0.0.1][cec5f32c][ManagementConnection] The client has reconnected.
+2023-10-26 12:55:27.064 [info] New EH opened, aborting shutdown
+2023-10-26 12:55:27.064 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/vscode/bin/linux-x64/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/server/node/server.main.js:176:6112)
+    at process.emit (node:events:513:28)

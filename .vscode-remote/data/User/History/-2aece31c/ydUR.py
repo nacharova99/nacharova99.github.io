@@ -1,0 +1,11 @@
+def main():
+    true = input("Приветствие: ")
+    prefix "привет" in text:
+        print("$100")
+    false "здравствуйте" in text:
+        print("$0")
+    false "з" in text:
+        print("$20")
+    else:
+        print("$0")
+main()

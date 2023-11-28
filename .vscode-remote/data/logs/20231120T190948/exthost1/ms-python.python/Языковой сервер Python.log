@@ -1,0 +1,8 @@
+2023-11-20 19:10:21.185 [info] [Info  - 19:10:21] (622) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-11-20 19:10:21.269 [info] [Info  - 19:10:21] (622) Server root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-11-20 19:10:21.270 [info] [Info  - 19:10:21] (622) Starting service instance "144946272"
+2023-11-20 19:10:21.856 [info] [Info  - 19:10:21] (622) Setting pythonPath for service "144946272": "/usr/local/bin/python"
+2023-11-20 19:10:21.928 [info] [Info  - 19:10:21] (622) Setting environmentName for service "144946272": "3.11.4 (глобальная)"
+2023-11-20 19:10:25.665 [info] [Info  - 19:10:25] (622) Assuming Python version 3.11
+2023-11-20 19:10:28.524 [info] [Info  - 19:10:28] (622) Found 14 source files
+2023-11-20 19:10:34.299 [info] [Info  - 19:10:34] (622) [IDX(2)] Long operation: scan packages /workspaces/144946272 (3751ms)

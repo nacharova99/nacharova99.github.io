@@ -1,0 +1,111 @@
+2023-11-20 19:45:53.520 [warning] /home/ubuntu/.ssh/config: ENOENT: no such file or directory, open '/home/ubuntu/.ssh/config'
+2023-11-20 19:45:53.520 [info] Activation> Extension version: 0.76.1
+2023-11-20 19:45:58.356 [info] Looking for git repository
+2023-11-20 19:45:58.356 [info] Found 0 repositories during activation
+2023-11-20 19:45:58.356 [info] Git repository found, initializing review manager and pr tree view.
+2023-11-20 19:45:58.360 [info] Registering git provider
+2023-11-20 19:45:58.360 [info] Review> Validate state in progress
+2023-11-20 19:45:58.360 [info] Review> Validating state...
+2023-11-20 19:45:58.689 [info] Found GitHub remote for folder /workspaces/144946272
+2023-11-20 19:45:59.188 [info] Trying to use globalState for assignableUsers.
+2023-11-20 19:45:59.764 [info] Repo state for file:///workspaces/144946272 changed.
+2023-11-20 19:45:59.764 [info] Repo file:///workspaces/144946272 has already been setup.
+2023-11-20 19:45:59.766 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-20 19:46:00.117 [info] Using globalState assignableUsers for 1.
+2023-11-20 19:46:00.231 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-20 19:48:02.202 [info] Review> Validate state in progress
+2023-11-20 19:48:02.202 [info] Review> Validating state...
+2023-11-20 19:48:02.647 [info] Found GitHub remote for folder /workspaces/144946272
+2023-11-20 19:48:02.648 [info] Using in-memory cached assignable users.
+2023-11-20 19:48:02.829 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-20 19:48:03.307 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-20 19:48:04.302 [info] Review> Validate state in progress
+2023-11-20 19:48:04.302 [info] Review> Validating state...
+2023-11-20 19:48:04.603 [info] Found GitHub remote for folder /workspaces/144946272
+2023-11-20 19:48:04.604 [info] Using in-memory cached assignable users.
+2023-11-20 19:48:04.806 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-20 19:48:05.262 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-20 19:51:54.424 [info] Review> Validate state in progress
+2023-11-20 19:51:54.424 [info] Review> Validating state...
+2023-11-20 19:51:54.897 [info] Found GitHub remote for folder /workspaces/144946272
+2023-11-20 19:51:54.898 [info] Using in-memory cached assignable users.
+2023-11-20 19:51:55.108 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-20 19:51:55.618 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-20 19:51:56.546 [info] Review> Validate state in progress
+2023-11-20 19:51:56.546 [info] Review> Validating state...
+2023-11-20 19:51:56.847 [info] Found GitHub remote for folder /workspaces/144946272
+2023-11-20 19:51:56.848 [info] Using in-memory cached assignable users.
+2023-11-20 19:51:57.039 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-20 19:51:57.510 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-20 19:52:56.350 [info] Review> Validate state in progress
+2023-11-20 19:52:56.350 [info] Review> Validating state...
+2023-11-20 19:52:56.763 [info] Found GitHub remote for folder /workspaces/144946272
+2023-11-20 19:52:56.763 [info] Using in-memory cached assignable users.
+2023-11-20 19:52:56.979 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-20 19:52:57.500 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-20 19:52:58.256 [info] Review> Queuing additional validate state
+2023-11-20 19:52:58.679 [info] Review> Validating state...
+2023-11-20 19:52:58.927 [info] Found GitHub remote for folder /workspaces/144946272
+2023-11-20 19:52:58.928 [info] Using in-memory cached assignable users.
+2023-11-20 19:52:59.125 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-20 19:52:59.561 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-20 19:57:21.784 [info] Review> Validate state in progress
+2023-11-20 19:57:21.784 [info] Review> Validating state...
+2023-11-20 19:57:22.216 [info] Found GitHub remote for folder /workspaces/144946272
+2023-11-20 19:57:22.216 [info] Using in-memory cached assignable users.
+2023-11-20 19:57:22.366 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-20 19:57:22.852 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-20 19:57:23.762 [info] Review> Queuing additional validate state
+2023-11-20 19:57:24.180 [info] Review> Validating state...
+2023-11-20 19:57:24.435 [info] Found GitHub remote for folder /workspaces/144946272
+2023-11-20 19:57:24.436 [info] Using in-memory cached assignable users.
+2023-11-20 19:57:24.651 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-20 19:57:25.094 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-20 20:09:33.635 [info] Review> Validate state in progress
+2023-11-20 20:09:33.635 [info] Review> Validating state...
+2023-11-20 20:09:34.032 [info] Found GitHub remote for folder /workspaces/144946272
+2023-11-20 20:09:34.033 [info] Using in-memory cached assignable users.
+2023-11-20 20:09:34.261 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-20 20:09:34.932 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-20 20:09:35.495 [info] Review> Queuing additional validate state
+2023-11-20 20:09:36.161 [info] Review> Validating state...
+2023-11-20 20:09:36.416 [info] Found GitHub remote for folder /workspaces/144946272
+2023-11-20 20:09:36.417 [info] Using in-memory cached assignable users.
+2023-11-20 20:09:36.655 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-20 20:09:37.103 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-20 20:24:02.680 [info] Review> Validate state in progress
+2023-11-20 20:24:02.680 [info] Review> Validating state...
+2023-11-20 20:24:03.101 [info] Found GitHub remote for folder /workspaces/144946272
+2023-11-20 20:24:03.102 [info] Using in-memory cached assignable users.
+2023-11-20 20:24:03.421 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-20 20:24:03.876 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-20 20:24:04.639 [info] Review> Queuing additional validate state
+2023-11-20 20:24:05.006 [info] Review> Validating state...
+2023-11-20 20:24:05.261 [info] Found GitHub remote for folder /workspaces/144946272
+2023-11-20 20:24:05.262 [info] Using in-memory cached assignable users.
+2023-11-20 20:24:05.494 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-20 20:24:05.997 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-20 20:41:29.604 [info] Review> Validate state in progress
+2023-11-20 20:41:29.604 [info] Review> Validating state...
+2023-11-20 20:41:29.998 [info] Found GitHub remote for folder /workspaces/144946272
+2023-11-20 20:41:29.998 [info] Using in-memory cached assignable users.
+2023-11-20 20:41:30.237 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-20 20:41:30.682 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-20 20:41:31.462 [info] Review> Queuing additional validate state
+2023-11-20 20:41:31.778 [info] Review> Validating state...
+2023-11-20 20:41:32.913 [info] Found GitHub remote for folder /workspaces/144946272
+2023-11-20 20:41:32.914 [info] Using in-memory cached assignable users.
+2023-11-20 20:41:33.122 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-20 20:41:33.602 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-20 20:53:01.831 [info] Review> Validate state in progress
+2023-11-20 20:53:01.831 [info] Review> Validating state...
+2023-11-20 20:53:03.129 [info] Found GitHub remote for folder /workspaces/144946272
+2023-11-20 20:53:03.130 [info] Using in-memory cached assignable users.
+2023-11-20 20:53:03.496 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-20 20:53:03.956 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-20 20:53:04.707 [info] Review> Queuing additional validate state
+2023-11-20 20:53:05.089 [info] Review> Validating state...
+2023-11-20 20:53:05.361 [info] Found GitHub remote for folder /workspaces/144946272
+2023-11-20 20:53:05.362 [info] Using in-memory cached assignable users.
+2023-11-20 20:53:05.644 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-20 20:53:06.069 [info] Review> No matching pull request metadata found on GitHub for current branch main

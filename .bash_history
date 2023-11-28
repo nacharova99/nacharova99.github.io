@@ -248,3 +248,4 @@ mkdir fuel
 cd fuel
 code fuel.py
 python fuel.py
+cd

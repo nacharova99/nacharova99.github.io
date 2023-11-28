@@ -1,0 +1,33 @@
+2023-11-28 20:35:10.651 [warning] /home/ubuntu/.ssh/config: ENOENT: no such file or directory, open '/home/ubuntu/.ssh/config'
+2023-11-28 20:35:10.651 [info] Activation> Extension version: 0.76.1
+2023-11-28 20:35:19.123 [info] Looking for git repository
+2023-11-28 20:35:19.123 [info] Found 0 repositories during activation
+2023-11-28 20:35:19.123 [info] Git repository found, initializing review manager and pr tree view.
+2023-11-28 20:35:19.127 [info] Registering git provider
+2023-11-28 20:35:19.127 [info] Review> Validate state in progress
+2023-11-28 20:35:19.127 [info] Review> Validating state...
+2023-11-28 20:35:19.127 [info] Review> Validate state in progress
+2023-11-28 20:35:19.127 [info] Review> Validating state...
+2023-11-28 20:35:19.485 [info] Found GitHub remote for folder /home/ubuntu/site
+2023-11-28 20:35:19.485 [info] Found GitHub remote for folder /home/ubuntu
+2023-11-28 20:35:19.927 [info] Trying to use globalState for assignableUsers.
+2023-11-28 20:35:20.163 [info] Trying to use globalState for assignableUsers.
+2023-11-28 20:35:20.296 [info] Repo state for file:///home/ubuntu/site changed.
+2023-11-28 20:35:20.296 [info] Repo file:///home/ubuntu/site has already been setup.
+2023-11-28 20:35:20.320 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-28 20:35:20.524 [info] Review> Failed to get upstream for branch main from git config.
+2023-11-28 20:35:20.528 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-28 20:35:20.907 [info] Repo state for file:///home/ubuntu changed.
+2023-11-28 20:35:20.907 [info] Repo file:///home/ubuntu has already been setup.
+2023-11-28 20:35:20.933 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-28 20:35:20.968 [info] Using globalState assignableUsers for 1.
+2023-11-28 20:35:20.995 [info] Using globalState assignableUsers for 1.
+2023-11-28 20:35:22.887 [info] Review> Failed to get upstream for branch main from git config.
+2023-11-28 20:35:22.888 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-28 20:36:16.291 [info] Review> Validate state in progress
+2023-11-28 20:36:16.291 [info] Review> Validating state...
+2023-11-28 20:36:20.353 [info] Found GitHub remote for folder /home/ubuntu
+2023-11-28 20:36:20.356 [info] Using in-memory cached assignable users.
+2023-11-28 20:36:21.296 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-28 20:36:22.633 [info] Review> Failed to get upstream for branch main from git config.
+2023-11-28 20:36:22.633 [info] Review> No matching pull request metadata found on GitHub for current branch main

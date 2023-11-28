@@ -1,0 +1,238 @@
+2023-11-12 17:34:33.319 [trace] Remote configuration data at /home/ubuntu/.vscode-remote
+2023-11-12 17:34:33.319 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/ubuntu/.vscode-remote/data/Machine/.connection-token-1a5daa3a0231a0fbba4f14db7ec463cf99d7768e","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/ubuntu/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"use-test-resolver":false,"extensions-download-dir":"/home/ubuntu/.vscode-remote/extensionsCache","list-extensions":false,"show-versions":false,"force":false,"do-not-sync":false,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/ubuntu/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions","extensions-dir":"/home/ubuntu/.vscode-remote/extensions","logsPath":"/home/ubuntu/.vscode-remote/data/logs/20231112T173433"}
+2023-11-12 17:34:33.319 [info] 
+
+
+
+
+2023-11-12 17:34:33.319 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/data/Machine (excludes: <none>, includes: <all>, correlationId: <none>),/home/ubuntu/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, correlationId: <none>)
+2023-11-12 17:34:33.320 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/data/Machine'
+2023-11-12 17:34:33.322 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/data/Machine/settings.json'
+2023-11-12 17:34:33.338 [trace] ExtensionManagementService#cleanUp
+2023-11-12 17:34:33.338 [trace] ExtensionManagementService#removeTempDeleteFolders
+2023-11-12 17:34:33.340 [info] Extension host agent started.
+2023-11-12 17:34:33.378 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/extensions (excludes: <none>, includes: <all>, correlationId: <none>)
+2023-11-12 17:34:33.388 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/vscjava.vscode-java-dependency-0.23.2023100802
+2023-11-12 17:34:33.388 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/github.github-vscode-theme-6.3.4
+2023-11-12 17:34:33.388 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/formulahendry.code-runner-0.12.1
+2023-11-12 17:34:33.388 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/ms-vscode-remote.remote-wsl-0.81.8
+2023-11-12 17:34:33.389 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/extensions'
+2023-11-12 17:34:33.397 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions","external":"file:///home/ubuntu/.vscode-remote/extensions","path":"/home/ubuntu/.vscode-remote/extensions","scheme":"file"}
+2023-11-12 17:34:33.397 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>, correlationId: <none>)
+2023-11-12 17:34:33.399 [debug] Removing uninstalled extensions: ["vscjava.vscode-java-debug-0.54.0","ms-ceintl.vscode-language-pack-cs-1.83.2023101109","ms-ceintl.vscode-language-pack-de-1.83.2023101109","ms-ceintl.vscode-language-pack-es-1.83.2023101109","ms-ceintl.vscode-language-pack-it-1.83.2023101109","ms-ceintl.vscode-language-pack-ko-1.83.2023101109","ms-ceintl.vscode-language-pack-fr-1.83.2023101109","ms-ceintl.vscode-language-pack-ja-1.83.2023101109","ms-ceintl.vscode-language-pack-pt-br-1.83.2023101109","ms-ceintl.vscode-language-pack-zh-hant-1.83.2023101109","ms-ceintl.vscode-language-pack-ru-1.83.2023101109","ms-ceintl.vscode-language-pack-pl-1.83.2023101109","github.vscode-pull-request-github-0.74.1","ms-ceintl.vscode-language-pack-zh-hans-1.83.2023101109","ms-vsliveshare.vsliveshare-1.0.5883","ms-python.python-2023.18.0","ms-python.vscode-pylance-2023.10.50"]
+2023-11-12 17:34:33.399 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions","external":"file:///home/ubuntu/.vscode-remote/extensions","path":"/home/ubuntu/.vscode-remote/extensions","scheme":"file"}
+2023-11-12 17:34:34.192 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/extensions/extensions.json'
+2023-11-12 17:34:34.701 [trace] Scanned user extensions: 51
+2023-11-12 17:34:34.705 [trace] Deleting uninstalled extension from disk github.vscode-pull-request-github /home/ubuntu/.vscode-remote/extensions/github.vscode-pull-request-github-0.74.1
+2023-11-12 17:34:34.706 [trace] Deleting uninstalled extension from disk ms-ceintl.vscode-language-pack-cs /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-cs-1.83.2023101109
+2023-11-12 17:34:34.706 [trace] Deleting uninstalled extension from disk ms-ceintl.vscode-language-pack-de /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-de-1.83.2023101109
+2023-11-12 17:34:34.706 [trace] Deleting uninstalled extension from disk ms-ceintl.vscode-language-pack-es /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-es-1.83.2023101109
+2023-11-12 17:34:34.706 [trace] Deleting uninstalled extension from disk ms-ceintl.vscode-language-pack-fr /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-fr-1.83.2023101109
+2023-11-12 17:34:34.707 [trace] Deleting uninstalled extension from disk ms-ceintl.vscode-language-pack-it /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-it-1.83.2023101109
+2023-11-12 17:34:34.707 [trace] Deleting uninstalled extension from disk ms-ceintl.vscode-language-pack-ja /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.83.2023101109
+2023-11-12 17:34:34.707 [trace] Deleting uninstalled extension from disk ms-ceintl.vscode-language-pack-ko /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ko-1.83.2023101109
+2023-11-12 17:34:34.708 [trace] Deleting uninstalled extension from disk ms-ceintl.vscode-language-pack-pl /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pl-1.83.2023101109
+2023-11-12 17:34:34.708 [trace] Deleting uninstalled extension from disk ms-ceintl.vscode-language-pack-pt-br /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pt-br-1.83.2023101109
+2023-11-12 17:34:34.708 [trace] Deleting uninstalled extension from disk ms-ceintl.vscode-language-pack-ru /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ru-1.83.2023101109
+2023-11-12 17:34:34.708 [trace] Deleting uninstalled extension from disk ms-ceintl.vscode-language-pack-zh-hans /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.83.2023101109
+2023-11-12 17:34:34.709 [trace] Deleting uninstalled extension from disk ms-ceintl.vscode-language-pack-zh-hant /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hant-1.83.2023101109
+2023-11-12 17:34:34.709 [trace] Deleting uninstalled extension from disk ms-python.python /home/ubuntu/.vscode-remote/extensions/ms-python.python-2023.18.0
+2023-11-12 17:34:34.709 [trace] Deleting uninstalled extension from disk ms-python.vscode-pylance /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.10.50
+2023-11-12 17:34:34.710 [trace] Deleting uninstalled extension from disk ms-vsliveshare.vsliveshare /home/ubuntu/.vscode-remote/extensions/ms-vsliveshare.vsliveshare-1.0.5883
+2023-11-12 17:34:34.710 [trace] Deleting uninstalled extension from disk vscjava.vscode-java-debug /home/ubuntu/.vscode-remote/extensions/vscjava.vscode-java-debug-0.54.0
+2023-11-12 17:34:34.716 [trace] [File Watcher (node.js)] [raw] ["rename"] github.vscode-pull-request-github-0.74.1
+2023-11-12 17:34:34.716 [trace] [File Watcher (node.js)] [raw] ["rename"] github.vscode-pull-request-github-0.74.1.3b98138a.vsctmp
+2023-11-12 17:34:34.717 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-cs-1.83.2023101109
+2023-11-12 17:34:34.717 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-cs-1.83.2023101109.-749bdcf2.vsctmp
+2023-11-12 17:34:34.717 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-de-1.83.2023101109
+2023-11-12 17:34:34.717 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-de-1.83.2023101109.-1c52b177.vsctmp
+2023-11-12 17:34:34.717 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-es-1.83.2023101109
+2023-11-12 17:34:34.717 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-es-1.83.2023101109.-cbfe4d1.vsctmp
+2023-11-12 17:34:34.717 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-fr-1.83.2023101109
+2023-11-12 17:34:34.717 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-fr-1.83.2023101109.-42bd106e.vsctmp
+2023-11-12 17:34:34.717 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-it-1.83.2023101109
+2023-11-12 17:34:34.717 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-it-1.83.2023101109.4090d3bb.vsctmp
+2023-11-12 17:34:34.717 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-ja-1.83.2023101109
+2023-11-12 17:34:34.717 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-ja-1.83.2023101109.-4465acb7.vsctmp
+2023-11-12 17:34:34.718 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-ko-1.83.2023101109
+2023-11-12 17:34:34.718 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-ko-1.83.2023101109.3cfe3f24.vsctmp
+2023-11-12 17:34:34.718 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-pl-1.83.2023101109
+2023-11-12 17:34:34.718 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-pl-1.83.2023101109.-6b74beb0.vsctmp
+2023-11-12 17:34:34.718 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-pt-br-1.83.2023101109
+2023-11-12 17:34:34.718 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-pt-br-1.83.2023101109.29cba708.vsctmp
+2023-11-12 17:34:34.718 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-ru-1.83.2023101109
+2023-11-12 17:34:34.718 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-ru-1.83.2023101109.26cfe68a.vsctmp
+2023-11-12 17:34:34.718 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-zh-hans-1.83.2023101109
+2023-11-12 17:34:34.718 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-zh-hans-1.83.2023101109.4cbcadb3.vsctmp
+2023-11-12 17:34:34.718 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-zh-hant-1.83.2023101109
+2023-11-12 17:34:34.719 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-zh-hant-1.83.2023101109.38e2c2f6.vsctmp
+2023-11-12 17:34:34.719 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-python.python-2023.18.0
+2023-11-12 17:34:34.719 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-python.python-2023.18.0.6b55f30.vsctmp
+2023-11-12 17:34:34.719 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-python.vscode-pylance-2023.10.50
+2023-11-12 17:34:34.719 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-python.vscode-pylance-2023.10.50.-59b8c9df.vsctmp
+2023-11-12 17:34:34.719 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-vsliveshare.vsliveshare-1.0.5883
+2023-11-12 17:34:34.719 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-vsliveshare.vsliveshare-1.0.5883.-9a37eed.vsctmp
+2023-11-12 17:34:34.719 [trace] [File Watcher (node.js)] [raw] ["rename"] vscjava.vscode-java-debug-0.54.0
+2023-11-12 17:34:34.719 [trace] [File Watcher (node.js)] [raw] ["rename"] vscjava.vscode-java-debug-0.54.0.-1a2fdd05.vsctmp
+2023-11-12 17:34:34.723 [trace] Scanned user extensions: 34
+2023-11-12 17:34:34.973 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/github.vscode-pull-request-github-0.74.1
+2023-11-12 17:34:34.973 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/github.vscode-pull-request-github-0.74.1.3b98138a.vsctmp
+2023-11-12 17:34:34.973 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-cs-1.83.2023101109.-749bdcf2.vsctmp
+2023-11-12 17:34:34.973 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-cs-1.83.2023101109
+2023-11-12 17:34:34.974 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-de-1.83.2023101109
+2023-11-12 17:34:34.974 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-de-1.83.2023101109.-1c52b177.vsctmp
+2023-11-12 17:34:34.974 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-es-1.83.2023101109.-cbfe4d1.vsctmp
+2023-11-12 17:34:34.974 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-es-1.83.2023101109
+2023-11-12 17:34:34.974 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-fr-1.83.2023101109.-42bd106e.vsctmp
+2023-11-12 17:34:34.974 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-fr-1.83.2023101109
+2023-11-12 17:34:34.974 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-it-1.83.2023101109.4090d3bb.vsctmp
+2023-11-12 17:34:34.974 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-it-1.83.2023101109
+2023-11-12 17:34:34.974 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.83.2023101109.-4465acb7.vsctmp
+2023-11-12 17:34:34.974 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.83.2023101109
+2023-11-12 17:34:34.974 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ko-1.83.2023101109.3cfe3f24.vsctmp
+2023-11-12 17:34:34.975 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ko-1.83.2023101109
+2023-11-12 17:34:34.975 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pl-1.83.2023101109
+2023-11-12 17:34:34.975 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pl-1.83.2023101109.-6b74beb0.vsctmp
+2023-11-12 17:34:34.975 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pt-br-1.83.2023101109.29cba708.vsctmp
+2023-11-12 17:34:34.975 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pt-br-1.83.2023101109
+2023-11-12 17:34:34.975 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ru-1.83.2023101109.26cfe68a.vsctmp
+2023-11-12 17:34:34.975 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ru-1.83.2023101109
+2023-11-12 17:34:34.975 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.83.2023101109.4cbcadb3.vsctmp
+2023-11-12 17:34:34.976 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.83.2023101109
+2023-11-12 17:34:34.976 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hant-1.83.2023101109.38e2c2f6.vsctmp
+2023-11-12 17:34:34.976 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hant-1.83.2023101109
+2023-11-12 17:34:34.976 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-python.python-2023.18.0.6b55f30.vsctmp
+2023-11-12 17:34:34.976 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-python.python-2023.18.0
+2023-11-12 17:34:34.976 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.10.50.-59b8c9df.vsctmp
+2023-11-12 17:34:34.976 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.10.50
+2023-11-12 17:34:34.976 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-vsliveshare.vsliveshare-1.0.5883.-9a37eed.vsctmp
+2023-11-12 17:34:34.976 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-vsliveshare.vsliveshare-1.0.5883
+2023-11-12 17:34:34.976 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/vscjava.vscode-java-debug-0.54.0.-1a2fdd05.vsctmp
+2023-11-12 17:34:34.977 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/vscjava.vscode-java-debug-0.54.0
+2023-11-12 17:34:35.048 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-python.python-2023.18.0
+2023-11-12 17:34:35.049 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/vscjava.vscode-java-debug-0.54.0
+2023-11-12 17:34:35.049 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.10.50
+2023-11-12 17:34:35.049 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-vsliveshare.vsliveshare-1.0.5883
+2023-11-12 17:34:35.049 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/github.vscode-pull-request-github-0.74.1
+2023-11-12 17:34:35.049 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-cs-1.83.2023101109
+2023-11-12 17:34:35.049 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-de-1.83.2023101109
+2023-11-12 17:34:35.049 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-es-1.83.2023101109
+2023-11-12 17:34:35.049 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-fr-1.83.2023101109
+2023-11-12 17:34:35.049 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-it-1.83.2023101109
+2023-11-12 17:34:35.049 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.83.2023101109
+2023-11-12 17:34:35.049 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ko-1.83.2023101109
+2023-11-12 17:34:35.049 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pl-1.83.2023101109
+2023-11-12 17:34:35.049 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ru-1.83.2023101109
+2023-11-12 17:34:35.049 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pt-br-1.83.2023101109
+2023-11-12 17:34:35.049 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.83.2023101109
+2023-11-12 17:34:35.050 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hant-1.83.2023101109
+2023-11-12 17:34:35.050 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/github.vscode-pull-request-github-0.74.1.3b98138a.vsctmp
+2023-11-12 17:34:35.050 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-cs-1.83.2023101109.-749bdcf2.vsctmp
+2023-11-12 17:34:35.050 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-de-1.83.2023101109.-1c52b177.vsctmp
+2023-11-12 17:34:35.050 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-es-1.83.2023101109.-cbfe4d1.vsctmp
+2023-11-12 17:34:35.050 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-fr-1.83.2023101109.-42bd106e.vsctmp
+2023-11-12 17:34:35.050 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-it-1.83.2023101109.4090d3bb.vsctmp
+2023-11-12 17:34:35.050 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.83.2023101109.-4465acb7.vsctmp
+2023-11-12 17:34:35.050 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ko-1.83.2023101109.3cfe3f24.vsctmp
+2023-11-12 17:34:35.050 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pl-1.83.2023101109.-6b74beb0.vsctmp
+2023-11-12 17:34:35.050 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pt-br-1.83.2023101109.29cba708.vsctmp
+2023-11-12 17:34:35.050 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ru-1.83.2023101109.26cfe68a.vsctmp
+2023-11-12 17:34:35.050 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.83.2023101109.4cbcadb3.vsctmp
+2023-11-12 17:34:35.050 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hant-1.83.2023101109.38e2c2f6.vsctmp
+2023-11-12 17:34:35.050 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-python.python-2023.18.0.6b55f30.vsctmp
+2023-11-12 17:34:35.050 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.10.50.-59b8c9df.vsctmp
+2023-11-12 17:34:35.051 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/ms-vsliveshare.vsliveshare-1.0.5883.-9a37eed.vsctmp
+2023-11-12 17:34:35.051 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/vscjava.vscode-java-debug-0.54.0.-1a2fdd05.vsctmp
+2023-11-12 17:34:35.320 [info] [127.0.0.1][6cf53029][ManagementConnection] New connection established.
+2023-11-12 17:34:35.324 [trace] [127.0.0.1][464bb277][ExtensionHostConnection] - startParams language: ru
+2023-11-12 17:34:35.324 [trace] [127.0.0.1][464bb277][ExtensionHostConnection] - startParams env: {}
+2023-11-12 17:34:35.325 [info] [127.0.0.1][464bb277][ExtensionHostConnection] New connection established.
+2023-11-12 17:34:35.388 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-11-12 17:34:35.536 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-de-1.83.2023101109.-1c52b177.vsctmp
+2023-11-12 17:34:35.537 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-it-1.83.2023101109.4090d3bb.vsctmp
+2023-11-12 17:34:35.537 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-fr-1.83.2023101109.-42bd106e.vsctmp
+2023-11-12 17:34:35.537 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-es-1.83.2023101109.-cbfe4d1.vsctmp
+2023-11-12 17:34:35.538 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-ko-1.83.2023101109.3cfe3f24.vsctmp
+2023-11-12 17:34:35.538 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-pt-br-1.83.2023101109.29cba708.vsctmp
+2023-11-12 17:34:35.538 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-pl-1.83.2023101109.-6b74beb0.vsctmp
+2023-11-12 17:34:35.538 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-ja-1.83.2023101109.-4465acb7.vsctmp
+2023-11-12 17:34:35.538 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-cs-1.83.2023101109.-749bdcf2.vsctmp
+2023-11-12 17:34:35.538 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-ru-1.83.2023101109.26cfe68a.vsctmp
+2023-11-12 17:34:35.538 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-de /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-de-1.83.2023101109
+2023-11-12 17:34:35.539 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-it /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-it-1.83.2023101109
+2023-11-12 17:34:35.539 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-fr /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-fr-1.83.2023101109
+2023-11-12 17:34:35.539 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-es /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-es-1.83.2023101109
+2023-11-12 17:34:35.539 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-ko /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ko-1.83.2023101109
+2023-11-12 17:34:35.539 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-pt-br /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pt-br-1.83.2023101109
+2023-11-12 17:34:35.540 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-pl /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pl-1.83.2023101109
+2023-11-12 17:34:35.540 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-ja /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.83.2023101109
+2023-11-12 17:34:35.540 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-cs /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-cs-1.83.2023101109
+2023-11-12 17:34:35.540 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-ru /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ru-1.83.2023101109
+2023-11-12 17:34:35.591 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-zh-hans-1.83.2023101109.4cbcadb3.vsctmp
+2023-11-12 17:34:35.591 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-zh-hans /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.83.2023101109
+2023-11-12 17:34:35.657 [trace] [File Watcher (node.js)] [raw] ["rename"] vscjava.vscode-java-debug-0.54.0.-1a2fdd05.vsctmp
+2023-11-12 17:34:35.658 [info] Deleted uninstalled extension from disk vscjava.vscode-java-debug /home/ubuntu/.vscode-remote/extensions/vscjava.vscode-java-debug-0.54.0
+2023-11-12 17:34:35.683 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-zh-hant /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hant-1.83.2023101109
+2023-11-12 17:34:35.684 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-zh-hant-1.83.2023101109.38e2c2f6.vsctmp
+2023-11-12 17:34:35.715 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-de-1.83.2023101109.-1c52b177.vsctmp
+2023-11-12 17:34:35.715 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-it-1.83.2023101109.4090d3bb.vsctmp
+2023-11-12 17:34:35.715 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-fr-1.83.2023101109.-42bd106e.vsctmp
+2023-11-12 17:34:35.715 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-es-1.83.2023101109.-cbfe4d1.vsctmp
+2023-11-12 17:34:35.715 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ko-1.83.2023101109.3cfe3f24.vsctmp
+2023-11-12 17:34:35.715 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pl-1.83.2023101109.-6b74beb0.vsctmp
+2023-11-12 17:34:35.716 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pt-br-1.83.2023101109.29cba708.vsctmp
+2023-11-12 17:34:35.716 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-cs-1.83.2023101109.-749bdcf2.vsctmp
+2023-11-12 17:34:35.716 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.83.2023101109.-4465acb7.vsctmp
+2023-11-12 17:34:35.716 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ru-1.83.2023101109.26cfe68a.vsctmp
+2023-11-12 17:34:35.790 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-it-1.83.2023101109.4090d3bb.vsctmp
+2023-11-12 17:34:35.790 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-es-1.83.2023101109.-cbfe4d1.vsctmp
+2023-11-12 17:34:35.790 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ko-1.83.2023101109.3cfe3f24.vsctmp
+2023-11-12 17:34:35.790 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ru-1.83.2023101109.26cfe68a.vsctmp
+2023-11-12 17:34:35.790 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-de-1.83.2023101109.-1c52b177.vsctmp
+2023-11-12 17:34:35.790 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-fr-1.83.2023101109.-42bd106e.vsctmp
+2023-11-12 17:34:35.790 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pl-1.83.2023101109.-6b74beb0.vsctmp
+2023-11-12 17:34:35.790 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-cs-1.83.2023101109.-749bdcf2.vsctmp
+2023-11-12 17:34:35.790 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.83.2023101109.-4465acb7.vsctmp
+2023-11-12 17:34:35.790 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pt-br-1.83.2023101109.29cba708.vsctmp
+2023-11-12 17:34:36.052 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.83.2023101109.4cbcadb3.vsctmp
+2023-11-12 17:34:36.060 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/vscjava.vscode-java-debug-0.54.0.-1a2fdd05.vsctmp
+2023-11-12 17:34:36.061 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hant-1.83.2023101109.38e2c2f6.vsctmp
+2023-11-12 17:34:36.128 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/vscjava.vscode-java-debug-0.54.0.-1a2fdd05.vsctmp
+2023-11-12 17:34:36.128 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.83.2023101109.4cbcadb3.vsctmp
+2023-11-12 17:34:36.128 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hant-1.83.2023101109.38e2c2f6.vsctmp
+2023-11-12 17:34:36.274 [info] Deleted uninstalled extension from disk github.vscode-pull-request-github /home/ubuntu/.vscode-remote/extensions/github.vscode-pull-request-github-0.74.1
+2023-11-12 17:34:36.274 [trace] [File Watcher (node.js)] [raw] ["rename"] github.vscode-pull-request-github-0.74.1.3b98138a.vsctmp
+2023-11-12 17:34:36.434 [trace] Started scanning system extensions
+2023-11-12 17:34:36.434 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-remote/extensions/extensions.json","path":"/home/ubuntu/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-11-12 17:34:36.435 [trace] ExtensionManagementService.refreshReportedCache
+2023-11-12 17:34:36.435 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-11-12 17:34:36.436 [trace] Started scanning system extensions
+2023-11-12 17:34:36.436 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-remote/extensions/extensions.json","path":"/home/ubuntu/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-11-12 17:34:36.437 [trace] Started scanning system extensions
+2023-11-12 17:34:36.437 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-remote/extensions/extensions.json","path":"/home/ubuntu/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-11-12 17:34:36.438 [trace] Scanning extensions using UI language: ru
+2023-11-12 17:34:36.440 [info] Log level changed to info
+2023-11-12 17:34:37.618 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-de-1.83.2023101109.-1c52b177.vsctmp'
+    at a.create (/vscode/bin/linux-x64/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:104:29482)
+    at $ (/vscode/bin/linux-x64/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:104:29597)
+    at n.fb (/vscode/bin/linux-x64/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:109:35177)
+    at n.stat (/vscode/bin/linux-x64/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:109:27623)
+    at async c.stat (/vscode/bin/linux-x64/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:109:14733)
+    at async ne.tb (/vscode/bin/linux-x64/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:169:9528)
+2023-11-12 17:34:37.680 [info] [127.0.0.1][464bb277][ExtensionHostConnection] <498> Launched Extension Host Process.
+2023-11-12 17:34:38.305 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.10.50
+2023-11-12 17:34:38.803 [info] Deleted uninstalled extension from disk ms-python.python /home/ubuntu/.vscode-remote/extensions/ms-python.python-2023.18.0
+2023-11-12 17:34:38.867 [info] Deleted uninstalled extension from disk ms-vsliveshare.vsliveshare /home/ubuntu/.vscode-remote/extensions/ms-vsliveshare.vsliveshare-1.0.5883
+2023-11-12 17:35:03.296 [info] Getting Manifest... github.vscode-pull-request-github
+2023-11-12 17:35:03.551 [info] Installing extension: github.vscode-pull-request-github
+2023-11-12 17:35:05.155 [warning] Extension signature verification failed with error 'ENOENT': github.vscode-pull-request-github
+2023-11-12 17:35:05.272 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/github.vscode-pull-request-github-0.76.1: github.vscode-pull-request-github
+2023-11-12 17:35:05.293 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/github.vscode-pull-request-github-0.76.1
+2023-11-12 17:35:05.302 [info] Extracting extension completed. github.vscode-pull-request-github
+2023-11-12 17:35:05.321 [info] Extension installed successfully: github.vscode-pull-request-github
+2023-11-12 17:35:05.328 [info] Marked extension as uninstalled github.vscode-pull-request-github-0.76.0
+2023-11-12 17:39:33.341 [info] New EH opened, aborting shutdown
+2023-11-12 17:40:16.331 [info] [127.0.0.1][6cf53029][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-12 17:40:16.571 [info] [127.0.0.1][464bb277][ExtensionHostConnection] <498> Extension Host Process exited with code: 0, signal: null.
+2023-11-12 17:40:16.572 [info] Last EH closed, waiting before shutting down
+2023-11-12 17:45:16.573 [info] Last EH closed, shutting down

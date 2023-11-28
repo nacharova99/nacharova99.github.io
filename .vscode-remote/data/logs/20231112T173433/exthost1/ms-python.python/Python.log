@@ -1,0 +1,8 @@
+2023-11-12 17:35:26.882 [info] Эксперимент «pythonPromptNewFormatterExt» активен
+2023-11-12 17:35:26.882 [info] Эксперимент «pythonPromptNewToolsExt» активен
+2023-11-12 17:35:26.882 [info] Эксперимент «pythonRecommendTensorboardExt» активен
+2023-11-12 17:35:26.882 [info] Эксперимент «pythonTestAdapter» активен
+2023-11-12 17:35:26.910 [info] Default formatter is set to null for workspace /workspaces/144946272
+2023-11-12 17:35:27.413 [info] Test server listening.
+2023-11-12 17:35:27.413 [info] Путь к интерпретатору Python: /usr/local/bin/python
+2023-11-12 17:35:31.351 [info] Запуск языкового сервера Pylance.

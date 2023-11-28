@@ -1,0 +1,83 @@
+{
+	"name": "explain50",
+	"displayName": "Explain Highlighted Code",
+	"description": "Provide code explanations for learners",
+	"icon": "images/explain50.png",
+	"version": "1.0.0",
+	"publisher": "CS50",
+	"preview": true,
+	"repository": "https://github.com/cs50/explain50.vsix",
+	"engines": {
+		"vscode": "^1.81.0"
+	},
+	"categories": [
+		"Education",
+		"Programming Languages",
+		"Snippets",
+		"Other"
+	],
+	"activationEvents": [
+		"onStartupFinished"
+	],
+	"main": "./out/extension.js",
+	"contributes": {
+		"commands": [
+			{
+				"title": "Explain Highlighted Code",
+				"command": "explain50.explain"
+			}
+		],
+		"menus": {
+			"editor/context": [
+				{
+					"command": "explain50.explain",
+					"when": "editorTextFocus",
+					"group": "0_workspace@0"
+				}
+			]
+		},
+		"keybindings": [
+			{
+				"command": "explain50.explain",
+				"win": "alt+shift+e",
+				"key": "alt+shift+e",
+				"mac": "alt+shift+e",
+				"when": "editorTextFocus"
+			}
+		]
+	},
+	"files": [
+		"public_key.pem"
+	],
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "tsc -p ./",
+		"watch": "tsc -watch -p ./",
+		"pretest": "npm run compile && npm run lint",
+		"lint": "eslint src --ext ts"
+	},
+	"devDependencies": {
+		"@types/glob": "^8.1.0",
+		"@types/mocha": "^10.0.1",
+		"@types/node": "20.x",
+		"@types/vscode": "^1.81.0",
+		"@typescript-eslint/eslint-plugin": "^6.6.0",
+		"@typescript-eslint/parser": "^6.6.0",
+		"@vscode/test-electron": "^2.3.4",
+		"eslint": "^8.48.0",
+		"glob": "^10.3.4",
+		"mocha": "^10.2.0",
+		"typescript": "^5.2.2"
+	},
+	"dependencies": {
+		"@vscode/vsce": "^2.21.0",
+		"axios": "^1.5.0",
+		"markdown-it": "^13.0.1",
+		"markdown-it-highlightjs": "^4.0.1"
+	},
+	"__metadata": {
+		"isApplicationScoped": true,
+		"isMachineScoped": true,
+		"installedTimestamp": 1694829989868
+	}
+}
